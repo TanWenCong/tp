@@ -33,5 +33,3 @@ Given below are my contributions to the project.
 * **Tools**:
 
 {Add/Remove categories in the list above in the future}
-
-
